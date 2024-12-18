@@ -1,0 +1,568 @@
+Product_id,Product,Sale,Customer_Feedback,Region,Purchase_Date,Customer_Age_Group,Rating
+P082,Router,35852,Negative,South,2023-10-13,46-60,1
+P015,Smartphone,45996,Positive,South,2023-09-17,18-25,5
+P004,Projector,39984,Positive,North,2023-12-14,46-60,5
+P095,TV,40302,Negative,North,2023-09-02,26-35,1
+P036,Bluetooth Speaker,24968,Negative,South,2023-06-23,60+,1
+P032,Printer,47461,Neutral,North,2023-09-20,46-60,3
+P029,Router,17426,Positive,West,2023-11-03,26-35,5
+P018,Tablet,23273,Negative,East,2023-02-25,18-25,1
+P095,Mouse,47918,Positive,West,2023-04-22,18-25,5
+P014,Fitness Tracker,36757,Positive,South,2023-11-12,36-45,5
+P087,Mouse,21577,Negative,West,2023-03-21,26-35,1
+P095,Smartwatch,43855,Negative,South,2023-10-02,26-35,1
+P070,Keyboard,21534,Positive,West,2023-10-21,46-60,5
+P012,Projector,49468,Negative,West,2023-11-21,60+,1
+P076,Keyboard,44945,Positive,North,2023-07-25,60+,5
+P055,Router,16005,Negative,South,2023-06-26,36-45,1
+P005,Mouse,24447,Neutral,South,2023-07-04,36-45,3
+P004,External Hard Drive,41868,Negative,East,2023-01-04,36-45,1
+P012,Keyboard,25116,Positive,West,2023-05-08,26-35,5
+P028,TV,19903,Negative,West,2023-09-24,18-25,1
+P030,Headphones,45768,Positive,East,2023-09-18,18-25,5
+P065,Bluetooth Speaker,32368,Negative,South,2023-10-23,46-60,1
+P078,Router,37187,Positive,West,2023-10-08,60+,5
+P004,External Hard Drive,41049,Positive,East,2023-08-12,60+,5
+P072,Gaming Console,20263,Negative,East,2023-07-15,46-60,1
+P026,Fitness Tracker,36532,Positive,East,2023-11-19,26-35,5
+P092,E-Reader,49971,Neutral,West,2023-12-17,18-25,3
+P084,Keyboard,39904,Neutral,South,2023-03-12,36-45,3
+P090,External Hard Drive,35752,Negative,South,2023-01-16,18-25,1
+P070,TV,46978,Positive,East,2023-02-10,46-60,5
+P054,Smartphone,17352,Positive,East,2023-07-03,18-25,5
+P029,Keyboard,19484,Positive,South,2023-02-27,36-45,5
+P058,Keyboard,30385,Negative,East,2023-12-05,60+,1
+P076,Bluetooth Speaker,33833,Negative,East,2023-06-10,46-60,1
+P036,Router,29908,Neutral,South,2023-06-15,26-35,3
+P001,E-Reader,20923,Positive,West,2023-04-17,18-25,5
+P098,Fitness Tracker,43440,Neutral,East,2023-08-12,18-25,3
+P021,Mouse,21451,Negative,West,2023-08-04,26-35,1
+P090,Drone,21586,Negative,East,2023-08-24,26-35,1
+P055,Drone,44076,Neutral,East,2023-12-15,36-45,3
+P044,Drone,25902,Positive,East,2023-06-03,18-25,5
+P036,Bluetooth Speaker,34625,Positive,North,2023-05-02,46-60,5
+P020,Projector,16897,Positive,West,2023-12-04,18-25,5
+P028,Camera,18014,Negative,West,2023-01-28,36-45,1
+P098,Gaming Console,36258,Positive,East,2023-06-21,46-60,5
+P044,Tablet,18677,Positive,South,2023-02-22,46-60,5
+P014,Keyboard,34226,Neutral,East,2023-03-24,46-60,3
+P012,Projector,38492,Neutral,North,2023-04-17,36-45,3
+P049,Fitness Tracker,39565,Neutral,East,2023-03-18,18-25,3
+P013,Mouse,43225,Neutral,North,2023-03-11,60+,3
+P046,Tablet,24540,Negative,East,2023-09-14,46-60,1
+P045,Desktop PC,31003,Positive,West,2023-08-08,26-35,5
+P078,Keyboard,49810,Negative,East,2023-07-21,36-45,1
+P034,Desktop PC,42004,Positive,West,2023-03-06,46-60,5
+P006,Bluetooth Speaker,26800,Negative,South,2023-11-22,36-45,1
+P094,Headphones,26140,Positive,South,2023-07-13,26-35,5
+P059,Smartphone,26473,Positive,East,2023-01-24,46-60,5
+P069,Laptop,20175,Positive,East,2023-10-07,18-25,5
+P016,Desktop PC,40070,Negative,South,2023-08-19,36-45,1
+P049,Camera,30783,Neutral,North,2023-07-13,46-60,3
+P011,Fitness Tracker,47615,Neutral,South,2023-01-23,46-60,3
+P071,Tablet,24379,Negative,South,2023-04-07,36-45,1
+P038,Drone,30216,Positive,North,2023-05-25,26-35,5
+P081,Router,45221,Positive,South,2023-12-26,36-45,5
+P080,E-Reader,31644,Negative,South,2023-02-19,60+,1
+P047,Bluetooth Speaker,45118,Neutral,North,2023-02-26,18-25,3
+P074,External Hard Drive,31733,Neutral,North,2023-09-06,26-35,3
+P025,Camera,15615,Positive,West,2023-06-11,18-25,5
+P091,External Hard Drive,45490,Neutral,East,2023-04-15,18-25,3
+P009,Desktop PC,33850,Neutral,West,2023-02-09,36-45,3
+P006,Headphones,25353,Neutral,North,2023-11-28,60+,3
+P085,Smartphone,19840,Positive,South,2023-08-17,46-60,5
+P030,Smartwatch,43949,Neutral,North,2023-11-11,60+,3
+P099,Router,37646,Positive,South,2023-10-13,26-35,5
+P038,Desktop PC,34605,Negative,West,2023-10-13,60+,1
+P011,Gaming Console,42807,Negative,West,2023-10-04,18-25,1
+P030,Projector,31390,Positive,West,2023-06-12,46-60,5
+P013,Drone,44939,Neutral,South,2023-08-20,60+,3
+P049,Laptop,34799,Negative,East,2023-03-27,46-60,1
+P036,TV,28055,Positive,East,2023-11-23,60+,5
+P059,Desktop PC,40211,Neutral,East,2023-05-20,46-60,3
+P082,Smartwatch,46667,Negative,North,2023-10-03,60+,1
+P047,Drone,21989,Positive,North,2023-11-05,26-35,5
+P021,Headphones,30545,Neutral,South,2023-06-04,46-60,3
+P048,Drone,39993,Neutral,North,2023-04-10,36-45,3
+P046,Projector,38524,Positive,South,2023-02-06,18-25,5
+P027,TV,34390,Neutral,West,2023-06-23,46-60,3
+P086,Fitness Tracker,34348,Negative,South,2023-03-17,18-25,1
+P035,Mouse,16437,Positive,North,2023-07-14,60+,5
+P090,Drone,40939,Neutral,West,2023-10-05,60+,3
+P088,Fitness Tracker,32988,Neutral,West,2023-10-13,60+,3
+P083,Projector,15530,Neutral,South,2023-07-06,60+,3
+P010,Router,18214,Neutral,East,2023-08-21,60+,3
+P078,TV,47553,Neutral,North,2023-09-23,26-35,3
+P082,Drone,33756,Positive,North,2023-11-06,18-25,5
+P022,Gaming Console,30081,Negative,East,2023-09-06,46-60,1
+P069,Camera,38089,Negative,North,2023-08-10,26-35,1
+P094,Drone,29352,Positive,East,2023-03-06,26-35,5
+P032,Monitor,27460,Neutral,East,2023-06-27,26-35,3
+P021,Desktop PC,31425,Negative,West,2023-08-20,26-35,1
+P060,Monitor,23963,Negative,West,2023-01-28,26-35,1
+P049,Projector,21367,Negative,South,2023-06-01,18-25,1
+P035,Camera,17583,Neutral,West,2023-08-05,46-60,3
+P082,Desktop PC,35246,Positive,East,2023-04-27,18-25,5
+P089,Monitor,43889,Negative,South,2023-07-18,46-60,1
+P072,Drone,17186,Positive,North,2023-09-21,26-35,5
+P029,Tablet,38911,Negative,East,2023-08-14,26-35,1
+P088,Keyboard,23612,Positive,South,2023-11-16,60+,5
+P042,Desktop PC,20906,Neutral,West,2023-07-23,36-45,3
+P099,Monitor,34340,Neutral,East,2023-08-16,36-45,3
+P100,Mouse,36411,Neutral,South,2023-03-03,18-25,3
+P008,Mouse,42230,Positive,North,2023-10-01,18-25,5
+P030,TV,26510,Neutral,East,2023-04-10,46-60,3
+P005,Tablet,28159,Neutral,East,2023-01-09,60+,3
+P041,Headphones,23661,Negative,South,2023-04-18,46-60,1
+P052,Headphones,38976,Positive,South,2023-05-06,60+,5
+P035,Desktop PC,49789,Positive,West,2023-08-19,36-45,5
+P009,External Hard Drive,47885,Negative,West,2023-12-25,36-45,1
+P028,Headphones,32860,Neutral,East,2023-08-18,60+,3
+P073,Bluetooth Speaker,25783,Negative,North,2023-09-04,46-60,1
+P092,Tablet,31840,Neutral,West,2023-10-04,18-25,3
+P041,Router,46578,Positive,North,2023-05-25,60+,5
+P028,Router,34342,Neutral,South,2023-09-27,60+,3
+P084,Mouse,37198,Negative,South,2023-06-18,60+,1
+P064,TV,22547,Neutral,West,2023-01-25,46-60,3
+P051,Drone,45692,Negative,East,2023-12-15,18-25,1
+P083,Router,19934,Neutral,South,2023-09-07,46-60,3
+P059,Laptop,24224,Positive,North,2023-07-04,26-35,5
+P019,Bluetooth Speaker,29785,Positive,East,2023-12-27,26-35,5
+P034,Router,41044,Positive,West,2023-11-25,60+,5
+P018,External Hard Drive,38971,Neutral,South,2023-04-10,60+,3
+P032,E-Reader,20918,Negative,West,2023-01-15,60+,1
+P096,Smartphone,40858,Positive,East,2023-05-12,18-25,5
+P072,E-Reader,15912,Negative,East,2023-02-15,18-25,1
+P069,External Hard Drive,32331,Positive,East,2023-02-25,60+,5
+P034,Camera,23099,Positive,North,2023-04-07,18-25,5
+P096,Smartphone,44804,Positive,East,2023-12-19,36-45,5
+P075,Printer,39155,Positive,East,2023-12-12,60+,5
+P055,Keyboard,32181,Negative,South,2023-12-20,36-45,1
+P075,External Hard Drive,39970,Negative,North,2023-11-14,46-60,1
+P052,Router,39344,Neutral,North,2023-03-20,36-45,3
+P047,TV,22100,Negative,West,2023-03-26,46-60,1
+P029,TV,30323,Neutral,East,2023-04-27,46-60,3
+P018,Fitness Tracker,45898,Negative,South,2023-04-26,60+,1
+P066,Desktop PC,16640,Negative,West,2023-01-19,60+,1
+P064,Camera,36496,Positive,East,2023-06-18,46-60,5
+P012,Desktop PC,29507,Neutral,North,2023-05-20,18-25,3
+P097,Monitor,19142,Positive,East,2023-09-06,26-35,5
+P007,Router,45426,Negative,East,2023-06-23,36-45,1
+P015,Camera,34804,Negative,South,2023-05-10,46-60,1
+P020,Smartphone,41758,Positive,South,2023-10-09,26-35,5
+P081,External Hard Drive,22646,Neutral,South,2023-09-22,60+,3
+P021,Mouse,24160,Negative,West,2023-02-05,60+,1
+P088,External Hard Drive,17971,Negative,South,2023-07-02,46-60,1
+P055,Gaming Console,17438,Positive,West,2023-05-28,18-25,5
+P077,Drone,34946,Negative,East,2023-11-05,46-60,1
+P009,Headphones,47284,Negative,West,2023-12-28,36-45,1
+P050,Fitness Tracker,22610,Negative,West,2023-03-08,26-35,1
+P049,TV,21369,Neutral,South,2023-03-23,18-25,3
+P077,Smartphone,30387,Negative,South,2023-06-27,46-60,1
+P060,External Hard Drive,23890,Negative,North,2023-04-25,36-45,1
+P068,E-Reader,40470,Negative,West,2023-11-13,36-45,1
+P033,E-Reader,44729,Positive,East,2023-08-05,18-25,5
+P071,Smartphone,39314,Negative,North,2023-10-21,36-45,1
+P002,Tablet,42467,Neutral,North,2023-05-21,36-45,3
+P088,Router,25126,Negative,North,2023-07-13,36-45,1
+P093,Headphones,42189,Negative,South,2023-08-03,36-45,1
+P015,Drone,21489,Neutral,South,2023-11-26,46-60,3
+P088,Gaming Console,47069,Negative,South,2023-02-13,18-25,1
+P069,Laptop,41746,Positive,East,2023-09-24,26-35,5
+P097,Monitor,33333,Neutral,West,2023-05-23,26-35,3
+P035,External Hard Drive,17144,Negative,North,2023-06-15,36-45,1
+P099,Mouse,39283,Positive,South,2023-08-11,46-60,5
+P083,Bluetooth Speaker,29238,Negative,West,2023-10-01,36-45,1
+P044,Drone,44057,Neutral,North,2023-12-03,36-45,3
+P015,Mouse,44143,Positive,West,2023-12-15,46-60,5
+P038,Mouse,30473,Neutral,North,2023-11-22,60+,3
+P056,External Hard Drive,38768,Negative,West,2023-12-12,18-25,1
+P021,Monitor,21511,Negative,South,2023-02-26,26-35,1
+P059,Router,39073,Positive,West,2023-09-13,46-60,5
+P001,Monitor,38506,Positive,West,2023-04-14,26-35,5
+P093,Tablet,18968,Negative,North,2023-04-16,46-60,1
+P093,Camera,41092,Neutral,West,2023-05-11,46-60,3
+P034,Smartphone,33080,Negative,East,2023-05-11,60+,1
+P065,TV,27439,Negative,North,2023-09-19,36-45,1
+P098,Laptop,23005,Negative,West,2023-03-19,18-25,1
+P023,Printer,44800,Neutral,East,2023-08-26,60+,3
+P065,Desktop PC,21007,Neutral,North,2023-06-22,26-35,3
+P014,Tablet,28900,Negative,South,2023-01-02,18-25,1
+P081,Laptop,16399,Positive,North,2023-02-21,36-45,5
+P039,Smartphone,18314,Neutral,North,2023-08-01,60+,3
+P082,Desktop PC,36856,Negative,West,2023-02-28,46-60,1
+P065,Bluetooth Speaker,30962,Negative,East,2023-03-15,26-35,1
+P078,Smartphone,23252,Negative,North,2023-08-01,60+,1
+P026,Fitness Tracker,28448,Positive,North,2023-07-07,60+,5
+P020,Headphones,19496,Neutral,North,2023-12-05,18-25,3
+P048,Desktop PC,28576,Negative,West,2023-11-10,26-35,1
+P098,Headphones,29152,Neutral,North,2023-03-28,26-35,3
+P021,Camera,30269,Negative,East,2023-05-03,26-35,1
+P070,Smartwatch,36532,Negative,West,2023-11-12,18-25,1
+P100,E-Reader,24670,Neutral,South,2023-05-03,26-35,3
+P068,Bluetooth Speaker,15185,Positive,South,2023-06-22,18-25,5
+P001,Drone,33171,Positive,West,2023-11-06,46-60,5
+P077,Monitor,24482,Neutral,East,2023-01-13,18-25,3
+P042,Printer,23519,Neutral,West,2023-11-10,36-45,3
+P063,Gaming Console,31426,Negative,West,2023-12-23,26-35,1
+P003,Fitness Tracker,26435,Negative,West,2023-04-14,36-45,1
+P015,Fitness Tracker,22204,Neutral,West,2023-11-03,36-45,3
+P047,Smartwatch,16689,Neutral,North,2023-12-04,46-60,3
+P040,Gaming Console,23637,Neutral,South,2023-01-07,60+,3
+P031,Keyboard,15973,Positive,East,2023-08-03,46-60,5
+P008,Smartwatch,38477,Positive,North,2023-03-19,18-25,5
+P031,E-Reader,30593,Positive,South,2023-04-17,18-25,5
+P073,Smartphone,36218,Neutral,West,2023-11-15,26-35,3
+P011,Keyboard,16034,Neutral,South,2023-01-01,36-45,3
+P011,E-Reader,26419,Negative,South,2023-12-11,46-60,1
+P094,External Hard Drive,32391,Positive,North,2023-02-28,60+,5
+P063,External Hard Drive,18434,Positive,North,2023-07-23,46-60,5
+P009,Bluetooth Speaker,23307,Positive,East,2023-03-16,26-35,5
+P098,Tablet,42588,Positive,West,2023-02-08,46-60,5
+P069,E-Reader,49477,Neutral,West,2023-07-03,60+,3
+P099,Desktop PC,22448,Negative,West,2023-12-26,60+,1
+P017,Smartwatch,19165,Negative,South,2023-02-04,36-45,1
+P017,Keyboard,46211,Negative,South,2023-06-12,36-45,1
+P085,Fitness Tracker,44378,Neutral,West,2023-05-05,26-35,3
+P061,Smartwatch,38726,Positive,East,2023-07-25,36-45,5
+P071,E-Reader,48635,Neutral,South,2023-03-21,18-25,3
+P022,Laptop,22146,Positive,East,2023-11-05,36-45,5
+P034,Printer,44622,Neutral,South,2023-02-17,18-25,3
+P068,TV,48019,Negative,North,2023-10-01,46-60,1
+P078,Router,29519,Negative,North,2023-10-21,18-25,1
+P055,Printer,17841,Negative,West,2023-03-15,26-35,1
+P028,Tablet,49173,Negative,North,2023-06-24,60+,1
+P070,Projector,34767,Positive,South,2023-04-21,26-35,5
+P097,Mouse,45018,Neutral,South,2023-12-05,26-35,3
+P094,Smartphone,17041,Positive,North,2023-07-20,26-35,5
+P089,Router,18986,Neutral,North,2023-11-15,26-35,3
+P026,Camera,46390,Negative,North,2023-04-03,36-45,1
+P092,Smartwatch,41320,Negative,West,2023-02-05,46-60,1
+P040,Router,42936,Negative,North,2023-02-19,60+,1
+P052,Printer,22075,Neutral,South,2023-12-13,18-25,3
+P086,Drone,47130,Negative,North,2023-06-14,18-25,1
+P084,Headphones,44069,Positive,West,2023-06-26,46-60,5
+P048,Router,19816,Positive,West,2023-03-08,26-35,5
+P057,Gaming Console,20294,Positive,South,2023-05-21,26-35,5
+P067,Projector,36109,Neutral,South,2023-02-08,60+,3
+P058,Monitor,24721,Positive,North,2023-09-20,18-25,5
+P016,Fitness Tracker,19304,Negative,South,2023-10-24,26-35,1
+P032,TV,23270,Neutral,East,2023-10-10,36-45,3
+P029,Camera,33023,Negative,South,2023-12-01,60+,1
+P009,Drone,36311,Neutral,East,2023-11-10,36-45,3
+P044,Router,39962,Positive,East,2023-04-17,36-45,5
+P003,E-Reader,49770,Negative,South,2023-10-17,46-60,1
+P076,Monitor,34326,Negative,East,2023-04-24,46-60,1
+P071,Mouse,44734,Neutral,South,2023-07-10,36-45,3
+P030,Desktop PC,48131,Negative,South,2023-11-02,46-60,1
+P076,Tablet,43193,Positive,West,2023-04-16,36-45,5
+P029,Monitor,21499,Neutral,East,2023-07-04,26-35,3
+P001,Drone,22498,Negative,East,2023-04-16,46-60,1
+P010,Desktop PC,29091,Neutral,North,2023-11-20,36-45,3
+P091,Drone,43185,Negative,South,2023-02-17,60+,1
+P081,E-Reader,44593,Positive,West,2023-01-12,60+,5
+P008,Fitness Tracker,29974,Positive,West,2023-06-05,46-60,5
+P030,External Hard Drive,42119,Positive,North,2023-07-28,60+,5
+P009,Mouse,37212,Positive,East,2023-10-14,18-25,5
+P005,Smartphone,44720,Negative,West,2023-06-18,18-25,1
+P043,Camera,41131,Positive,East,2023-11-06,60+,5
+P010,Mouse,42262,Neutral,West,2023-08-25,36-45,3
+P066,Gaming Console,21231,Negative,West,2023-02-01,60+,1
+P031,Camera,35483,Positive,South,2023-10-03,60+,5
+P036,Bluetooth Speaker,42968,Neutral,East,2023-01-09,60+,3
+P086,Printer,35481,Negative,West,2023-04-02,36-45,1
+P063,Monitor,31704,Neutral,South,2023-01-26,36-45,3
+P028,Mouse,39530,Negative,West,2023-07-17,18-25,1
+P070,Monitor,25003,Neutral,South,2023-05-21,46-60,3
+P017,Fitness Tracker,46081,Positive,South,2023-12-17,18-25,5
+P093,Monitor,19399,Neutral,East,2023-07-14,36-45,3
+P074,TV,20978,Neutral,South,2023-12-13,36-45,3
+P074,Smartphone,20594,Negative,West,2023-02-21,36-45,1
+P061,Projector,21109,Negative,North,2023-09-18,36-45,1
+P032,Bluetooth Speaker,43303,Positive,West,2023-10-05,36-45,5
+P061,Tablet,21328,Neutral,West,2023-05-03,36-45,3
+P053,Desktop PC,39421,Neutral,South,2023-05-03,26-35,3
+P025,Router,23527,Neutral,West,2023-09-07,26-35,3
+P013,Camera,18930,Neutral,South,2023-03-18,60+,3
+P013,TV,36603,Positive,East,2023-06-13,26-35,5
+P085,Desktop PC,23010,Negative,South,2023-10-21,18-25,1
+P056,Camera,41922,Neutral,East,2023-11-22,60+,3
+P046,Camera,38173,Positive,North,2023-11-03,46-60,5
+P055,Drone,42717,Positive,West,2023-05-23,36-45,5
+P053,Smartphone,18371,Positive,East,2023-07-24,26-35,5
+P060,Tablet,33850,Positive,North,2023-04-02,18-25,5
+P094,Keyboard,35476,Positive,South,2023-04-03,46-60,5
+P007,Desktop PC,38045,Negative,North,2023-07-04,36-45,1
+P087,External Hard Drive,21789,Positive,East,2023-08-20,36-45,5
+P084,Desktop PC,48253,Negative,West,2023-10-02,46-60,1
+P083,Keyboard,28942,Neutral,North,2023-05-22,46-60,3
+P013,E-Reader,25140,Neutral,North,2023-12-22,46-60,3
+P008,Printer,46600,Negative,South,2023-12-06,18-25,1
+P052,Camera,29696,Negative,South,2023-02-01,60+,1
+P094,TV,22092,Neutral,West,2023-12-05,60+,3
+P044,Projector,37945,Positive,South,2023-12-01,26-35,5
+P014,Printer,39088,Neutral,East,2023-03-16,36-45,3
+P032,Router,22529,Positive,East,2023-06-17,26-35,5
+P025,TV,33256,Positive,North,2023-09-26,60+,5
+P025,Mouse,29821,Negative,South,2023-12-09,46-60,1
+P069,Printer,43122,Negative,South,2023-03-12,36-45,1
+P058,Drone,16720,Neutral,North,2023-03-24,60+,3
+P018,Monitor,32527,Neutral,West,2023-05-24,36-45,3
+P055,Keyboard,16897,Negative,South,2023-02-25,26-35,1
+P024,Monitor,26823,Neutral,South,2023-01-11,60+,3
+P036,Desktop PC,32909,Negative,West,2023-07-09,26-35,1
+P060,Smartwatch,35249,Negative,South,2023-09-03,36-45,1
+P032,Bluetooth Speaker,37270,Neutral,East,2023-05-23,18-25,3
+P010,Mouse,38004,Positive,East,2023-10-21,46-60,5
+P057,Smartwatch,15400,Positive,West,2023-02-16,26-35,5
+P071,TV,26888,Negative,West,2023-08-17,36-45,1
+P013,Gaming Console,24388,Neutral,East,2023-06-02,60+,3
+P007,Bluetooth Speaker,41265,Positive,East,2023-08-28,26-35,5
+P084,Bluetooth Speaker,19560,Negative,East,2023-10-06,36-45,1
+P070,Camera,24297,Negative,East,2023-06-06,18-25,1
+P002,Monitor,17009,Neutral,West,2023-05-25,26-35,3
+P012,E-Reader,21013,Neutral,West,2023-02-19,36-45,3
+P097,Projector,49765,Negative,North,2023-11-24,26-35,1
+P031,Fitness Tracker,29098,Positive,West,2023-02-08,36-45,5
+P022,Keyboard,39654,Neutral,East,2023-12-17,46-60,3
+P053,Smartwatch,42514,Neutral,South,2023-01-02,36-45,3
+P063,Bluetooth Speaker,44730,Neutral,East,2023-01-08,36-45,3
+P062,Keyboard,37340,Positive,East,2023-01-16,36-45,5
+P028,Desktop PC,25315,Positive,West,2023-06-13,60+,5
+P052,Printer,39251,Negative,North,2023-03-06,36-45,1
+P008,Gaming Console,35423,Neutral,South,2023-01-18,46-60,3
+P022,Keyboard,36258,Positive,South,2023-12-24,18-25,5
+P049,Smartphone,20567,Positive,North,2023-11-14,46-60,5
+P001,TV,18447,Neutral,East,2023-04-11,18-25,3
+P050,Headphones,25196,Positive,West,2023-04-14,60+,5
+P034,Monitor,25316,Negative,East,2023-12-11,60+,1
+P059,Laptop,18261,Positive,South,2023-05-27,60+,5
+P037,Laptop,20346,Positive,South,2023-02-19,18-25,5
+P055,TV,32832,Negative,East,2023-06-04,46-60,1
+P090,Keyboard,44039,Neutral,South,2023-09-22,26-35,3
+P094,Headphones,42788,Positive,West,2023-01-06,60+,5
+P072,Camera,46828,Negative,South,2023-04-26,18-25,1
+P085,Smartwatch,43969,Neutral,West,2023-09-02,46-60,3
+P092,Smartphone,42143,Negative,East,2023-07-03,60+,1
+P063,E-Reader,32902,Positive,East,2023-08-28,36-45,5
+P020,Keyboard,29127,Negative,West,2023-05-25,46-60,1
+P025,Camera,48577,Positive,West,2023-05-11,18-25,5
+P038,Camera,22459,Neutral,West,2023-02-18,26-35,3
+P028,Drone,37621,Neutral,South,2023-08-01,26-35,3
+P008,Mouse,43174,Negative,East,2023-06-07,26-35,1
+P075,Gaming Console,22267,Positive,South,2023-05-19,36-45,5
+P095,Laptop,33562,Neutral,South,2023-05-24,46-60,3
+P070,Monitor,46891,Negative,West,2023-10-08,60+,1
+P008,Camera,49533,Neutral,South,2023-08-12,46-60,3
+P096,Smartwatch,35212,Neutral,North,2023-10-16,26-35,3
+P041,Tablet,17976,Positive,North,2023-04-24,36-45,5
+P008,External Hard Drive,29451,Neutral,North,2023-09-25,26-35,3
+P007,Camera,40903,Neutral,North,2023-04-05,18-25,3
+P075,Tablet,18590,Positive,North,2023-01-14,46-60,5
+P062,E-Reader,15503,Neutral,West,2023-01-08,36-45,3
+P065,Laptop,28397,Neutral,South,2023-09-12,26-35,3
+P068,Headphones,34753,Positive,South,2023-11-27,36-45,5
+P021,Headphones,28843,Positive,North,2023-12-01,18-25,5
+P008,E-Reader,23993,Neutral,South,2023-06-01,18-25,3
+P066,Keyboard,31745,Neutral,North,2023-11-13,46-60,3
+P011,Tablet,33969,Neutral,South,2023-12-24,36-45,3
+P024,Desktop PC,36503,Neutral,West,2023-05-04,26-35,3
+P009,Smartwatch,22863,Negative,East,2023-04-17,26-35,1
+P077,TV,15506,Neutral,North,2023-04-14,60+,3
+P009,Router,47596,Positive,West,2023-08-02,26-35,5
+P087,Fitness Tracker,43223,Positive,West,2023-03-23,46-60,5
+P031,Fitness Tracker,26514,Positive,North,2023-05-03,18-25,5
+P052,Fitness Tracker,23466,Positive,North,2023-01-08,26-35,5
+P016,Desktop PC,39917,Neutral,West,2023-09-14,60+,3
+P073,Projector,49903,Neutral,North,2023-12-12,46-60,3
+P032,External Hard Drive,30080,Negative,North,2023-08-24,46-60,1
+P075,Drone,47785,Neutral,East,2023-02-19,46-60,3
+P077,Drone,38210,Positive,East,2023-02-17,46-60,5
+P006,Keyboard,19723,Neutral,North,2023-03-21,46-60,3
+P080,E-Reader,41022,Negative,West,2023-07-03,46-60,1
+P011,Router,17772,Neutral,South,2023-10-19,18-25,3
+P054,Keyboard,43588,Neutral,North,2023-01-14,18-25,3
+P085,E-Reader,16228,Positive,North,2023-11-05,60+,5
+P075,Fitness Tracker,45130,Negative,South,2023-04-10,26-35,1
+P073,Laptop,20102,Neutral,South,2023-05-28,36-45,3
+P067,Fitness Tracker,35516,Neutral,South,2023-06-26,18-25,3
+P041,Smartwatch,43133,Negative,East,2023-07-23,36-45,1
+P034,Bluetooth Speaker,41504,Neutral,East,2023-12-11,60+,3
+P027,Bluetooth Speaker,42373,Negative,East,2023-06-15,26-35,1
+P086,Monitor,33973,Negative,West,2023-05-08,18-25,1
+P092,Tablet,22548,Positive,North,2023-02-07,18-25,5
+P041,Gaming Console,41544,Neutral,East,2023-03-25,26-35,3
+P031,Desktop PC,16366,Negative,West,2023-10-04,26-35,1
+P034,Gaming Console,36284,Negative,West,2023-03-04,36-45,1
+P051,TV,26263,Negative,South,2023-03-15,36-45,1
+P017,Tablet,45152,Positive,South,2023-08-11,26-35,5
+P086,Gaming Console,38714,Neutral,East,2023-07-04,18-25,3
+P083,Smartphone,20775,Positive,North,2023-09-12,46-60,5
+P039,Router,43620,Positive,North,2023-04-15,60+,5
+P059,Drone,21937,Negative,North,2023-05-15,60+,1
+P041,Fitness Tracker,30945,Negative,West,2023-05-28,36-45,1
+P097,Camera,43552,Negative,West,2023-02-03,26-35,1
+P010,Keyboard,41243,Negative,West,2023-03-26,18-25,1
+P002,Laptop,49338,Positive,West,2023-11-10,18-25,5
+P059,Desktop PC,20154,Negative,North,2023-12-23,36-45,1
+P080,Keyboard,40936,Neutral,North,2023-10-02,36-45,3
+P073,Keyboard,35334,Positive,South,2023-04-27,46-60,5
+P013,Drone,37250,Negative,North,2023-06-05,60+,1
+P010,Tablet,29520,Neutral,West,2023-02-23,60+,3
+P069,Desktop PC,36827,Negative,West,2023-04-12,60+,1
+P028,Monitor,26018,Neutral,East,2023-07-17,36-45,3
+P065,E-Reader,20005,Negative,North,2023-01-22,46-60,1
+P034,Bluetooth Speaker,48455,Negative,North,2023-05-09,26-35,1
+P017,Router,22472,Positive,South,2023-03-01,36-45,5
+P045,Smartwatch,49773,Negative,South,2023-07-28,46-60,1
+P009,TV,48420,Neutral,West,2023-08-18,36-45,3
+P032,Desktop PC,27707,Neutral,East,2023-12-18,26-35,3
+P048,Headphones,37896,Positive,North,2023-04-04,26-35,5
+P037,Monitor,38009,Negative,North,2023-08-04,46-60,1
+P021,Headphones,24679,Positive,East,2023-03-04,18-25,5
+P057,Tablet,30484,Negative,North,2023-01-02,26-35,1
+P070,Laptop,21737,Positive,South,2023-04-05,26-35,5
+P091,Gaming Console,24597,Negative,East,2023-04-27,26-35,1
+P039,Keyboard,31775,Negative,North,2023-07-12,26-35,1
+P079,Fitness Tracker,27928,Positive,South,2023-11-21,18-25,5
+P084,E-Reader,26370,Positive,South,2023-11-03,60+,5
+P068,Keyboard,25018,Positive,West,2023-10-19,60+,5
+P002,Drone,19938,Positive,North,2023-05-27,26-35,5
+P086,Smartwatch,26609,Negative,East,2023-02-01,18-25,1
+P071,Drone,47382,Negative,South,2023-02-07,36-45,1
+P039,Keyboard,45405,Neutral,South,2023-11-15,18-25,3
+P085,External Hard Drive,44419,Negative,West,2023-03-03,46-60,1
+P014,Monitor,36181,Positive,East,2023-06-04,36-45,5
+P018,Projector,35718,Positive,West,2023-01-15,60+,5
+P034,TV,24893,Negative,South,2023-01-06,60+,1
+P015,Camera,43820,Neutral,North,2023-10-14,18-25,3
+P014,Drone,19475,Neutral,East,2023-12-13,60+,3
+P096,Tablet,45731,Negative,North,2023-08-01,18-25,1
+P071,Fitness Tracker,43980,Positive,North,2023-07-22,18-25,5
+P020,Laptop,34845,Positive,West,2023-07-06,18-25,5
+P035,Router,33001,Negative,South,2023-06-07,18-25,1
+P037,Mouse,18681,Neutral,North,2023-03-09,18-25,3
+P078,Fitness Tracker,38064,Negative,East,2023-05-15,46-60,1
+P027,Monitor,48248,Negative,West,2023-03-02,46-60,1
+P092,Smartphone,19862,Negative,East,2023-10-20,46-60,1
+P044,Tablet,35342,Negative,North,2023-10-08,18-25,1
+P027,Desktop PC,45260,Positive,East,2023-11-10,60+,5
+P088,E-Reader,44616,Positive,West,2023-08-14,36-45,5
+P082,E-Reader,17464,Negative,West,2023-09-16,46-60,1
+P034,Smartphone,18728,Neutral,South,2023-01-03,26-35,3
+P065,Monitor,39165,Negative,East,2023-05-13,26-35,1
+P063,E-Reader,33813,Positive,West,2023-03-14,18-25,5
+P033,Laptop,20028,Positive,West,2023-04-21,36-45,5
+P007,Gaming Console,20917,Neutral,South,2023-09-08,46-60,3
+P012,Camera,48231,Negative,West,2023-11-26,18-25,1
+P082,Projector,40197,Positive,North,2023-09-26,60+,5
+P055,Drone,45324,Positive,East,2023-01-13,36-45,5
+P036,Monitor,17688,Negative,South,2023-12-12,60+,1
+P006,Gaming Console,44473,Negative,North,2023-08-18,60+,1
+P001,E-Reader,27336,Neutral,North,2023-08-12,26-35,3
+P043,Router,36071,Neutral,East,2023-10-17,46-60,3
+P099,Camera,46170,Neutral,South,2023-06-13,18-25,3
+P017,Tablet,47857,Negative,West,2023-05-06,60+,1
+P082,Camera,24886,Negative,South,2023-01-11,60+,1
+P034,Printer,19054,Neutral,West,2023-10-08,18-25,3
+P021,Router,44525,Positive,East,2023-01-26,36-45,5
+P095,Mouse,21783,Positive,East,2023-05-02,18-25,5
+P057,Mouse,37507,Negative,North,2023-08-17,18-25,1
+P071,Smartwatch,20526,Positive,North,2023-06-25,46-60,5
+P091,Gaming Console,48066,Negative,North,2023-10-08,26-35,1
+P055,Mouse,26308,Neutral,East,2023-03-04,60+,3
+P072,Router,17565,Negative,West,2023-04-22,26-35,1
+P002,Camera,31236,Negative,East,2023-04-09,36-45,1
+P015,Keyboard,43688,Negative,East,2023-09-27,60+,1
+P010,External Hard Drive,43797,Positive,North,2023-12-02,26-35,5
+P089,TV,49345,Negative,South,2023-04-19,36-45,1
+P020,Laptop,49258,Positive,North,2023-07-12,46-60,5
+P070,Drone,25403,Neutral,South,2023-03-06,36-45,3
+P005,Tablet,38848,Neutral,West,2023-04-19,26-35,3
+P048,Mouse,39435,Positive,West,2023-06-26,18-25,5
+P075,Monitor,33539,Negative,West,2023-12-23,60+,1
+P071,Mouse,40389,Neutral,North,2023-06-19,46-60,3
+P019,Smartwatch,41789,Negative,North,2023-01-23,26-35,1
+P056,External Hard Drive,37175,Positive,North,2023-12-12,46-60,5
+P017,Projector,18431,Negative,East,2023-10-19,36-45,1
+P006,Smartphone,36931,Neutral,North,2023-03-19,26-35,3
+P040,TV,19319,Negative,East,2023-04-27,18-25,1
+P047,Drone,36606,Neutral,West,2023-08-18,18-25,3
+P006,Router,21193,Negative,North,2023-05-06,18-25,1
+P046,Laptop,40333,Neutral,East,2023-08-02,18-25,3
+P027,Bluetooth Speaker,33621,Neutral,West,2023-02-02,60+,3
+P088,Projector,31514,Neutral,West,2023-04-20,46-60,3
+P032,Printer,24854,Positive,North,2023-04-01,26-35,5
+P086,Fitness Tracker,36847,Positive,South,2023-09-16,18-25,5
+P014,Camera,20341,Positive,South,2023-01-11,60+,5
+P046,Drone,24268,Negative,West,2023-10-07,18-25,1
+P100,Laptop,37925,Negative,South,2023-03-11,18-25,1
+P072,Bluetooth Speaker,35331,Negative,South,2023-12-06,36-45,1
+P053,Monitor,40687,Neutral,East,2023-06-02,26-35,3
+P080,TV,23450,Negative,East,2023-01-05,46-60,1
+P096,Headphones,20552,Positive,East,2023-10-23,36-45,5
+P020,Keyboard,35288,Positive,West,2023-03-25,36-45,5
+P031,Drone,39686,Neutral,South,2023-02-28,46-60,3
+P021,Camera,36527,Neutral,North,2023-09-28,18-25,3
+P023,Smartwatch,23375,Negative,South,2023-06-03,18-25,1
+P053,Smartphone,49497,Neutral,West,2023-06-23,26-35,3
+P004,Fitness Tracker,21124,Positive,East,2023-11-13,18-25,5
+P023,Desktop PC,42748,Positive,West,2023-10-04,36-45,5
+P095,Gaming Console,48324,Positive,East,2023-06-10,36-45,5
+P043,Keyboard,38712,Positive,West,2023-06-05,36-45,5
+P053,TV,16194,Neutral,North,2023-03-24,46-60,3
+P086,Smartphone,38763,Negative,East,2023-07-26,18-25,1
+P095,TV,35241,Negative,East,2023-11-16,18-25,1
+P032,Router,26813,Neutral,South,2023-11-11,18-25,3
+P035,Tablet,29037,Negative,West,2023-03-23,18-25,1
+P021,Desktop PC,37395,Positive,South,2023-09-23,26-35,5
+P090,Smartwatch,46868,Neutral,West,2023-10-26,26-35,3
+P014,Drone,27583,Neutral,North,2023-06-08,36-45,3
+P049,Smartwatch,29846,Positive,South,2023-11-19,36-45,5
+P005,Headphones,24015,Negative,East,2023-03-13,46-60,1
+P061,Camera,25154,Neutral,North,2023-05-24,60+,3
+P029,Keyboard,20057,Negative,West,2023-12-10,36-45,1
+P026,Projector,34385,Positive,East,2023-03-06,18-25,5
+P059,Monitor,21628,Negative,West,2023-12-01,36-45,1
+P045,Router,48271,Neutral,East,2023-12-19,36-45,3
+P040,Camera,49506,Neutral,West,2023-07-28,26-35,3
+P030,Camera,17473,Negative,East,2023-10-02,18-25,1
+P029,Desktop PC,37070,Neutral,West,2023-03-20,46-60,3
+P004,Drone,23588,Negative,South,2023-06-26,46-60,1
+P085,TV,39688,Neutral,East,2023-10-08,46-60,3
+P025,Headphones,25109,Neutral,East,2023-11-19,36-45,3
+P052,External Hard Drive,25633,Neutral,South,2023-02-16,46-60,3
+P043,Bluetooth Speaker,26851,Negative,West,2023-03-11,46-60,1
+P036,Fitness Tracker,25848,Neutral,East,2023-12-03,46-60,3
+P009,Projector,43683,Neutral,South,2023-04-12,26-35,3
+P099,Headphones,17863,Negative,West,2023-06-06,18-25,1
+P036,Tablet,41926,Negative,East,2023-11-03,26-35,1
+P045,Monitor,38874,Positive,East,2023-12-22,18-25,5
+P083,Router,30566,Negative,West,2023-11-24,26-35,1
+P066,Mouse,44111,Negative,South,2023-06-15,18-25,1
+P052,Projector,33673,Neutral,East,2023-01-09,46-60,3
+P087,Monitor,44420,Positive,West,2023-04-08,60+,5
+P069,Smartphone,30335,Negative,East,2023-12-03,46-60,1
+P043,Keyboard,49996,Neutral,West,2023-06-09,60+,3
+P004,Keyboard,30674,Negative,East,2023-02-24,46-60,1
+P015,E-Reader,35281,Neutral,North,2023-01-02,26-35,3
+P034,E-Reader,45737,Neutral,South,2023-07-15,60+,3
+P023,Camera,27715,Neutral,South,2023-12-14,46-60,3
+P075,Headphones,39106,Positive,North,2023-03-14,36-45,5
+P034,Drone,43874,Neutral,West,2023-08-13,60+,3
+P005,TV,45256,Negative,South,2023-06-18,18-25,1
+P014,Camera,33466,Negative,West,2023-07-04,26-35,1
+P077,Printer,40026,Neutral,East,2023-08-26,46-60,3
+P056,Mouse,47958,Neutral,North,2023-10-21,46-60,3
+P045,TV,49567,Neutral,West,2023-11-08,18-25,3
+P094,TV,42437,Positive,West,2023-03-15,46-60,5
+P041,External Hard Drive,25620,Neutral,South,2023-02-26,46-60,3
+P056,Drone,28087,Positive,East,2023-01-10,18-25,5
+P078,Mouse,24070,Neutral,South,2023-01-11,18-25,3
+P066,Bluetooth Speaker,31384,Negative,East,2023-05-04,36-45,1
+P015,Desktop PC,18419,Positive,South,2023-02-11,36-45,5
+P050,E-Reader,46495,Neutral,West,2023-03-13,18-25,3
+P074,External Hard Drive,39327,Neutral,West,2023-03-24,60+,3
+P025,Desktop PC,21723,Neutral,North,2023-02-18,60+,3
+P033,Router,48810,Neutral,West,2023-02-11,60+,3
+P006,Laptop,23170,Negative,West,2023-10-20,26-35,1
